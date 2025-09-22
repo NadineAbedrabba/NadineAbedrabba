@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nadine Abedrabba  
 
-A final-year Engineering student at **FST – Faculty of Sciences Tunisia**, exploring the worlds of **Cloud Computing, DevOps, and Full-Stack Development** while learning to tame bugs instead of chasing them.  
+✨ A final-year Engineering student at **FST – Faculty of Sciences Tunisia**, exploring the worlds of **Cloud Computing, DevOps, and Full-Stack Development** while learning to tame bugs instead of chasing them.  
 🚀 Always excited to **collaborate on creative and impactful projects** that turn ideas into reality.
 ---
 
